@@ -1,0 +1,3 @@
+subl exploring_the_world_of_lucid_dreaming.tex
+pdflatex exploring_the_world_of_lucid_dreaming.tex
+evince exploring_the_world_of_lucid_dreaming.pdf &

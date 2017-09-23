@@ -1,0 +1,8 @@
+all: pdf
+
+pdf: exploring_the_world_of_lucid_dreaming.tex
+	pdflatex exploring_the_world_of_lucid_dreaming.tex
+	rm exploring_the_world_of_lucid_dreaming.aux exploring_the_world_of_lucid_dreaming.log exploring_the_world_of_lucid_dreaming.toc
+
+clean:
+	rm exploring_the_world_of_lucid_dreaming.pdf
