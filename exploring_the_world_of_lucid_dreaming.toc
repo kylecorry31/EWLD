@@ -1,0 +1,54 @@
+\contentsline {section}{\numberline {1}The World of Lucid Dreaming}{3}
+\contentsline {subsection}{\numberline {1.1}The Wonders of Lucid Dreaming}{3}
+\contentsline {subsection}{\numberline {1.2}Life is Short}{3}
+\contentsline {paragraph}{Exercise - your present state of consciousness:}{3}
+\contentsline {subsection}{\numberline {1.3}Lucid Dreaming and Waking Life}{3}
+\contentsline {section}{\numberline {2}Preparation for Learning Lucid Dreaming}{4}
+\contentsline {subsection}{\numberline {2.1}Learning How to Learn}{4}
+\contentsline {subsection}{\numberline {2.2}Sleeping Brain, Dreaming Mind}{4}
+\contentsline {subsubsection}{\numberline {2.2.1}The mind in sleep}{4}
+\contentsline {subsubsection}{\numberline {2.2.2}The sleeper's night journey}{4}
+\contentsline {subsubsection}{\numberline {2.2.3}Communiqu\'{e} from the dream world}{4}
+\contentsline {subsection}{\numberline {2.3}Social Values and Lucid Dreaming}{5}
+\contentsline {subsection}{\numberline {2.4}Getting to Know Your Dreams}{5}
+\contentsline {subsubsection}{\numberline {2.4.1}How to recall your dreams}{5}
+\contentsline {subsubsection}{\numberline {2.4.2}Keeping a dream journal}{5}
+\contentsline {subsection}{\numberline {2.5}Dreamsigns: Doors to Lucidity}{6}
+\contentsline {subsubsection}{\numberline {2.5.1}The Dreamsign Inventory \cite {leberge}}{6}
+\contentsline {paragraph}{Inner awareness}{6}
+\contentsline {paragraph}{Action}{6}
+\contentsline {paragraph}{Form}{6}
+\contentsline {paragraph}{Context}{6}
+\contentsline {paragraph}{Exercise - Cataloging your dreamsigns:}{7}
+\contentsline {subsection}{\numberline {2.6}Goal Setting for Success}{7}
+\contentsline {paragraph}{Exercise - Goal setting for success:}{7}
+\contentsline {subsection}{\numberline {2.7}How to Schedule Your Efforts for Best Results}{7}
+\contentsline {paragraph}{Exercise - Scheduling time for lucid dreaming:}{7}
+\contentsline {subsection}{\numberline {2.8}Final Preparations: Learning to Relax Deeply}{7}
+\contentsline {paragraph}{Exercise - Progressive relaxation:}{7}
+\contentsline {section}{\numberline {3}Waking Up in the Dream World}{8}
+\contentsline {subsection}{\numberline {3.1}Lucid Dreaming is Easier Than You May Think}{8}
+\contentsline {subsubsection}{\numberline {3.1.1}Find the technique that works best for you}{8}
+\contentsline {subsection}{\numberline {3.2}Critical State Testing}{8}
+\contentsline {subsubsection}{\numberline {3.2.1}Building a bridge between the two worlds}{8}
+\contentsline {subsection}{\numberline {3.3}Tips on state testing}{8}
+\contentsline {subsection}{\numberline {3.4}Intention Techniques}{9}
+\contentsline {paragraph}{Power of resolution technique}{9}
+\contentsline {paragraph}{Intention technique}{9}
+\contentsline {subsubsection}{\numberline {3.4.1}Mnemonic Induction of Lucid Dreams (MILD)}{9}
+\contentsline {paragraph}{MILD prerequisites}{9}
+\contentsline {paragraph}{Exercise - Prospective memory training:}{9}
+\contentsline {paragraph}{MILD Technique}{10}
+\contentsline {section}{\numberline {4}Falling Asleep Consciously}{10}
+\contentsline {subsection}{\numberline {4.1}Wake Induced Lucid Dreams (WILDs)}{10}
+\contentsline {subsection}{\numberline {4.2}Attention to Hypnagogic Imagery}{10}
+\contentsline {paragraph}{Hypnagogic imagery technique}{10}
+\contentsline {subsection}{\numberline {4.3}Attention to Visualization}{10}
+\contentsline {paragraph}{White dot technique}{10}
+\contentsline {paragraph}{Other techniques}{11}
+\contentsline {subsection}{\numberline {4.4}Attention to Other Mental Tasks}{11}
+\contentsline {paragraph}{Count your self to sleep technique}{11}
+\contentsline {subsection}{\numberline {4.5}Attention on Body or Self}{11}
+\contentsline {paragraph}{A note on sleep paralysis}{11}
+\contentsline {paragraph}{Visualizing a dream scene in sleep paralysis}{11}
+\contentsline {subsection}{\numberline {4.6}Where Do You Go From Here?}{11}
